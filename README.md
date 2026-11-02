@@ -1,1 +1,1 @@
-# StudentManagement-Application
+# Student Management Application
